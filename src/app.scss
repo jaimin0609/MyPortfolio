@@ -7,10 +7,17 @@
         background-color: lightsalmon;
         position: relative;
         top: 70px;
+        scroll-behavior: smooth;
+        scroll-snap-type: y mandatory;
 
         > *{
             width: 100vw;
             height: calc(100vh - 70px);
+            scroll-snap-align: start;
+            scrollbar-width: none;
+            &::-webkit-scrollbar{
+                display: none;
+            }
         }
     }
 }
