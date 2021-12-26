@@ -15,7 +15,7 @@ export const featuredPortfolio = [
       id: 3,
       title: "E-commerce Web Design",
       img:
-        "https://cdn.dribbble.com/users/1387827/screenshots/15466426/media/deb2dca6762cd3610321c98bfccb0b72.png?compress=1&resize=1200x900",
+      "https://cdn.dribbble.com/users/3307260/screenshots/15468444/media/447b4501f7a145b05e11c70199a9c417.jpg?compress=1&resize=1200x900",
     },
     {
       id: 4,
@@ -33,7 +33,7 @@ export const featuredPortfolio = [
       id: 6,
       title: "Banking App",
       img:
-        "https://cdn.dribbble.com/users/3307260/screenshots/15468444/media/447b4501f7a145b05e11c70199a9c417.jpg?compress=1&resize=1200x900",
+      "https://cdn.dribbble.com/users/1387827/screenshots/15466426/media/deb2dca6762cd3610321c98bfccb0b72.png?compress=1&resize=1200x900",
     },
   ];
   
@@ -66,7 +66,7 @@ export const featuredPortfolio = [
     {
       id: 6,
       title: "Web Banking App",
-      img: "https://cdn.dribbble.com/users/6384483/screenshots/15468426/media/ce9479fa1f8dba3a4a49840d76e55e31.png?compress=1&resize=1200x900",
+      img: "https://i.pinimg.com/564x/39/1f/61/391f614f17da50b9a95ae6c3235abbde.jpg",
     },
   ];
   
@@ -81,7 +81,7 @@ export const featuredPortfolio = [
       id: 2,
       title: "Mobile Rampa UI Design",
       img:
-        "https://cdn.dribbble.com/users/5920881/screenshots/15463142/media/b5a460223798bd85d835710806e2f3dd.png?compress=1&resize=1200x900",
+        "https://i.pinimg.com/564x/b0/d8/f6/b0d8f6f10cfe498ebf31b26ffea20b8d.jpg",
     },
     {
       id: 3,
