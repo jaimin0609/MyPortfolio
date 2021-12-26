@@ -5,5 +5,4 @@ export default function Works() {
         <div className="works" id="works">
             
         </div>
-    )
 }
