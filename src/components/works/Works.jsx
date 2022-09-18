@@ -55,7 +55,9 @@ export default function Works() {
                   </div>
                   <h2>{d.title}</h2>
                   <p>{d.desc}</p>
+                  <a href="https://www.facebook.com/">
                   <span>Projects</span>
+                  </a>
                 </div>
               </div>
               <div className="right">
